@@ -1,7 +1,7 @@
 # SNAKE GAME 
 
 
-<img src="<img width="1280" alt="foto" src="https://github.com/Filipe-Samuel-p/Snake_Game/assets/146687615/e331426f-6de2-4b91-a634-b133b5f543ad">" alt= "Print do jogo rodando>
+<img width="1280" alt="foto" src="https://github.com/Filipe-Samuel-p/Snake_Game/assets/146687615/e331426f-6de2-4b91-a634-b133b5f543ad">" 
 
 <hr>
 
