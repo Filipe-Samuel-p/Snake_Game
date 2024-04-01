@@ -1,7 +1,8 @@
 # SNAKE GAME 
 
 
-<img src="foto.png" alt= "Print do jogo rodando>
+<img src="<img width="1280" alt="foto" src="https://github.com/Filipe-Samuel-p/Snake_Game/assets/146687615/e331426f-6de2-4b91-a634-b133b5f543ad">" alt= "Print do jogo rodando>
+
 <hr>
 
 One of the coolest projects I had the opportunity to develop was the famous Snake Game (or snake game, for those who are more intimate) in Python.
